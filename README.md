@@ -60,4 +60,4 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge\&logo=Canva\&logoColor=white)
 
 # 📊 GitHub Stats:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Bundele-Durwangsingh&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Bundele-Durwangsingh&theme=dark&short_numbers=true)](https://git.io/streak-stats)
